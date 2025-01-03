@@ -219,6 +219,6 @@ st.markdown('</div>', unsafe_allow_html=True)
 
 # Affichage de l'image centrée
 st.markdown('<div class="centered-container">', unsafe_allow_html=True)
-st.image('images/logo.png', caption='Description de l\'image', use_container_width=True)
+st.image('images/logo.png', use_container_width=True)
 st.markdown('</div>', unsafe_allow_html=True)
 
